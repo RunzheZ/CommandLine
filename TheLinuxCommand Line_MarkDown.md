@@ -5,8 +5,6 @@ Earlier, **Richard Stallman** began the GNU Project to create a free Unix-like o
 >**GUI** Graphical User Interface.
 >**CLI** Command Line Interface.
 
-Add one line to test
-
 ---
 ---
 
